@@ -1,6 +1,6 @@
 // src/services/api.ts
 
-const API_BASE_URL = "http://localhost:9096";
+const API_BASE_URL = "http://localhost:30083/back1";
 
 interface DashboardData {
   totalAppointments: number;
